@@ -1,2 +1,2 @@
-a,b=1,0
-for i in range(31):print(b);a,b=a+b,a
+a=b=1
+while a%178:print(a-b);a,b=a+b,a
